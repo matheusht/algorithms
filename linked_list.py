@@ -30,6 +30,7 @@ def size(self):
     """
     returns the number of nodes in the list
     takes 0(n) time
+    z
     """
     current = self.head
     count = 0
